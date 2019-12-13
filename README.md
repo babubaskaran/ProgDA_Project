@@ -10,3 +10,32 @@ For this project I am creating a data set by simulating a real-world phenomenon.
 For this project I am using the Type 1 Diabetes data and build my own data set from it.
 # Objective
 Type 1 diabetes, once known as juvenile diabetes or insulin-dependent diabetes, is a chronic condition in which the pancreas produces little or no insulin. Insulin is a hormone needed to allow sugar (glucose) to enter cells to produce energy.  Treatment focuses on managing blood sugar levels with insulin, diet and lifestyle to prevent complications.   By analysing the variable available of this are Blood Glucose level, Time of blood test, Carbs intake and Insulin dose.  The Blood Glucose level varies on different time of the day, Carbs intake and insulin dose level varies throughout the day.
+
+So let us use the below 7 different variables for our analysis.
+
+* Date
+* Time
+* Day of the Week
+* Blood Glucose
+* Carb Intake
+* Insulin Units
+* BG Level
+
+The Data that we will create with an algorithm, is based on the real life scenario of Type 1 Diabetes.
+
+For this project I have taken the Type 1 Diabetes log for 49 days from  01/09/2019 to 19/10/2019. Blood Glucose level has recorded on average 4 time a day for 49 days.
+
+# Data Cleanup
+
+Activities for data cleanup also considered, creating different data sets using them to make one data frame.  The values has been used for analysis.  The data indexed for easy retrivel.  
+
+# Distributions
+
+# Data Relationships
+
+* Comparison between Carbs eaten and Blood Glucose level
+* Time and Blood Glucose level
+
+
+
+
