@@ -35,6 +35,24 @@ Activities for data cleanup also considered, creating different data sets using 
 
 * Comparison between Carbs eaten and Blood Glucose level
 * Time and Blood Glucose level
+* The main variable is Blood Glucose level both Hight & Lows.  This is varies for variable reasons time of the day, the person growth (day by day), food eaten 2 hours before the blood test.  The Blood Glucose tested on morning as fast on week days and weekends varies on time.  If the kid is very small its hard to control whats to eat and whats not to eat.  
+
+* The blood glucose level goes high for the following reasons.
+
+1) The Insulin didnt delivered properly to the body
+2) The Insulin dose is low for the carbs eaten
+3) Carb count is not correct
+4) If the Kid is sicke
+
+* The blood Glucose level goes low for the following reasons.
+
+1) High Insulin delivered
+2) Food not eaten for the carb entered
+3) If the Kid is playing and active 
+
+The week day blood glucose level stay stable compare to weekends, this is due to the fact the waking up time on weekends and eating breakfast is differs.
+
+
 
 
 
